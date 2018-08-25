@@ -8,3 +8,8 @@ function subtract(x, y) {
 }
 subtract(60, 40)
 
+function multiply(x, y) {
+  return x * y 
+}
+multiply(2, 3.4)
+
