@@ -79,3 +79,7 @@ function makeInt(n) {
 }
 makeInt('5')
 
+function preserveDecimal(n) {
+  return parseFloat(n)
+}
+preserveDecimal('5.5555')
