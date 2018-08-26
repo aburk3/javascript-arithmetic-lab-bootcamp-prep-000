@@ -80,5 +80,5 @@ function makeInt(n) {
 makeInt("5")
 
 function makeInt(n) {
-  return pareInt('5', 10)
+  return parseInt('5', 10)
 }
