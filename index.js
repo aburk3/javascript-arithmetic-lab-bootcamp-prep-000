@@ -74,3 +74,8 @@ function dec(n) {
 }
 dec(8)
 
+function makeInt(n) {
+  return parseInt(n)
+}
+makeInt("5")
+
