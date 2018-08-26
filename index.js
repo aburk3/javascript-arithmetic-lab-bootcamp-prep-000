@@ -67,4 +67,10 @@ console.log(number) // 5
 function inc(n) {
   return n += 1 
 }
+inc(5)
+
+function dec(n) {
+  return n -= 1 
+}
+dec(8)
 
