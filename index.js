@@ -82,4 +82,4 @@ makeInt('5')
 function preserveDecimal(n) {
   return parseFloat(n)
 }
-preserveDecimal('5.5555')
+preserveDecimal(5.5555)
