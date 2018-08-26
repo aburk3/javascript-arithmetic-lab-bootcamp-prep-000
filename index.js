@@ -76,12 +76,10 @@ dec(8)
 
 function makeInt(n) {
   return parseInt
-
 }
 makeInt('5')
 
 function makeInt(n) {
-  
   return parseInt('n', 10)
 }
 makeInt('5')
